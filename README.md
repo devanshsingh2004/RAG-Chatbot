@@ -76,6 +76,7 @@ streamlit run streamlit_app.py
 ```
 
 Backend: http://127.0.0.1:8000
+
 UI: http://localhost:8501
 
 ---
@@ -148,5 +149,7 @@ Dockerization
 # 👤 Author
 
 Devansh Singh
+
 Backend & AI Systems Engineer
+
 RAG · LLM Infrastructure · Distributed Systems
